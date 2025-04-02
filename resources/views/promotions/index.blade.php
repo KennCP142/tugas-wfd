@@ -1,5 +1,6 @@
 @extends('layouts.app')
 
+
 @section('title', 'Daftar Promosi - PromoHub')
 
 @section('content')
